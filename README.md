@@ -46,3 +46,6 @@ Notes are stored as JSON in `~/.devlog/notes.json`. Override with `--dir`.
 ## License
 
 MIT
+
+<!-- reflection (2026-04-01) -->
+
